@@ -39,4 +39,4 @@ Proyek ini adalah website statis yang dibangun menggunakan teknologi web dasar:
 
 Website ini adalah halaman depan untuk proyek aplikasi utama. Untuk melihat kode sumber aplikasi Air Mouse yang sebenarnya (yang menggunakan Python dan OpenCV), silakan kunjungi repositori berikut:
 
-➡️ **[Repositori Utama Air Mouse](https://www.google.com/search?q=https://github.com/rifkyadiii/airmouse_tugas-akhir)**
+➡️ **[Repositori Utama Air Mouse](https://github.com/rifkyadiii/airmouse_tugas-akhir)**
